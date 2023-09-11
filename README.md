@@ -51,5 +51,5 @@
     </ul>
 
   <h2 align="left">Acknowledgments</h2>
-    <p align="left">We would like to acknowledge the contribution of the chembl dataset and the support of the open-source community in enabling this project.</p>
+    <p align="left">We would like to acknowledge the contribution of the chembl database for providing the dataset used in this project.</p>
 
